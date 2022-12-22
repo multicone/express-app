@@ -6,7 +6,7 @@
 - [x] Package Installation
 - [x] Running Nodejs script from package.json
 - [x] Body parser / express json
-- [ ] Module imprt and export
+- [x] Module import and export
 - [ ] Router
 - [ ] Controller
 - [ ] Asyncronous Javascript
@@ -14,7 +14,7 @@
 - [ ] Model
 - [ ] MVC (except view)
 - [ ] Sample CRUD
-- [ ] Middleware
+- [x] Middleware
 - [ ] Error Handling
 - [ ] Extending Build in Class
 - [ ] Authentication
