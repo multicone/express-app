@@ -7,13 +7,13 @@
 - [x] Running Nodejs script from package.json
 - [x] Body parser / express json
 - [x] Module import and export
-- [ ] Router
+- [x] Router
 - [ ] Controller
-- [ ] Asyncronous Javascript
-- [ ] Database Connection
-- [ ] Model
+- [x] Asyncronous Javascript
+- [x] Database Connection
+- [x] Model
 - [ ] MVC (except view)
-- [ ] Sample CRUD
+- [x] Sample CRUD (Remaining : UPDATE)
 - [x] Middleware
 - [x] Error Handling
 - [ ] Extending Build in Class
