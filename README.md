@@ -15,7 +15,7 @@
 - [ ] MVC (except view)
 - [ ] Sample CRUD
 - [x] Middleware
-- [ ] Error Handling
+- [x] Error Handling
 - [ ] Extending Build in Class
 - [ ] Authentication
 - [ ] Authorization / Guard
