@@ -8,19 +8,19 @@
 - [x] Body parser / express json
 - [x] Module import and export
 - [x] Router
-- [ ] Controller
+- [x] Controller
 - [x] Asyncronous Javascript
 - [x] Database Connection
 - [x] Model
-- [ ] MVC (except view)
-- [x] Sample CRUD (Remaining : UPDATE)
+- [x] MVC (except view)
+- [x] Sample CRUD
 - [x] Middleware
 - [x] Error Handling
 - [ ] Extending Build in Class
 - [ ] Authentication
 - [ ] Authorization / Guard
 - [ ] File Upload
-- [ ] Validation
+- [x] Validation
 - [ ] Email Intrigation
 - [ ] Cache
 - [ ] Queue
